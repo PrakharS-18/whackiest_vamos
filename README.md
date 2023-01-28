@@ -28,7 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Additional Task 1
 * Adding toggle for dark-light theme (done)
-* Ahange of theme according to time of day (done)
+* Change of theme according to time of day (done)
 
 ### Additional Task 2
 * Authentication of use using gmail and password(done)
