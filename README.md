@@ -52,7 +52,6 @@ These instructions will get you a copy of the project up and running on your loc
 * [whackiest_vamos](https://docs.google.com/presentation/d/1X_eCBIlas4nPd1oXK08-mzN5F4JOH3HampO1FuwAIUc/edit?usp=sharing)
 
 #### link to video
-*see the video try-3 if it is not opening then use try-2
 * [video](https://drive.google.com/drive/folders/1LBRB4hWWYesfEbi_bTqkpbqADfxgNvUR)
 * right click and preview to easiy watch the video :)
 
