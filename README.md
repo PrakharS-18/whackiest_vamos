@@ -41,6 +41,7 @@ These instructions will get you a copy of the project up and running on your loc
 * [Sqlite](https://sqlite.org/index.html) Database
 * [HTML](https://www.w3schools.com/html/) Standard Markup Language.
 * [CSS](https://www.w3schools.com/css/) Styling HTML Document.
+* [Java script](https://www.w3schools.com/js/) to create dynamic and interactive web content
 
 ### Contributers
 * Jayanth Mahadesh
