@@ -26,6 +26,15 @@ These instructions will get you a copy of the project up and running on your loc
 * Ability to bet on fitness goals and win prizes
 * Discounts on sports Packages
 
+### Additional Task 1
+* Adding toggle for dark-light theme (done)
+* Ahange of theme according to time of day (done)
+
+### Additional Task 2
+* Authentication of use using gmail and password(done)
+
+
+
 ### Built With
 
 * [Django](https://www.djangoproject.com/) Backend Framework.
@@ -37,3 +46,5 @@ These instructions will get you a copy of the project up and running on your loc
 * Jayanth Mahadesh
 * Joseph Braganza
 * Prakhar Singh
+
+
