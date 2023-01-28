@@ -47,4 +47,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Joseph Braganza
 * Prakhar Singh
 
+#### Link to our PPT presentation
+* [whackiest_vamos](https://docs.google.com/presentation/d/1X_eCBIlas4nPd1oXK08-mzN5F4JOH3HampO1FuwAIUc/edit?usp=sharing)
+
 
