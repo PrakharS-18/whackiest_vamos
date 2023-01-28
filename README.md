@@ -39,8 +39,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 * [Django](https://www.djangoproject.com/) Backend Framework.
 * [Sqlite](https://sqlite.org/index.html) Database
-* [HTML] (https://www.w3schools.com/html/) Standard Markup Language.
-* [CSS] (https://www.w3schools.com/css/) Styling HTML Document.
+* [HTML](https://www.w3schools.com/html/) Standard Markup Language.
+* [CSS](https://www.w3schools.com/css/) Styling HTML Document.
 
 ### Contributers
 * Jayanth Mahadesh
